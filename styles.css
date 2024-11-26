@@ -10,7 +10,7 @@ body {
 }
 
 #chatbox {
-    max-width: 700px;
+    max-width: 650px;
     width: 100%;
     background: #ffffff;
     border-radius: 10px;
@@ -52,5 +52,5 @@ body {
 }
 
 #sendBtn:hover:not(:disabled) {
-    background: #005bb5;
+    background: #ed4328;
 }
