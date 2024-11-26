@@ -11,7 +11,8 @@ At times, it almost seems that he just scrapes answers off the internet and resp
 ## Checklist:
 - [ ] Rework CSS
 - [ ] Research Bob's strange responses.
-- [ ] Personal deployment to Github pages
+- [ ] Secure code
+- [-] Personal deployment to Github pages
 
 ### DISCLAIMER: 
 ***HENRYWAUZIVUFF, QUIZZITYMC, ADSCHAT & ET AL. ARE NOT RESPONSIBLE FOR ANY RESPONSES FROM BOB THAT MAY CONTAIN REFERENCES TO QUESTIONABLE ACTIVITIES.***
