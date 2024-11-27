@@ -1,4 +1,6 @@
 # 'Wild Al' Bob
+_This is a fork of a repository made by QuizzityMC_
+
 A strange AI bot we got from following a strange tutorial, nicknamed 'Bob'.
 Bob very often gives incoherent & questionable answers to simple questions. 
 At times, it almost seems that he just scrapes answers off the internet and responds with the first thing he finds.
